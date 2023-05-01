@@ -1,6 +1,6 @@
 BY : RANGGA KAMAJAYA
 
-##PENJELASAN PROJEK
+## PENJELASAN PROJEK
 
 Temperature Detection dengan Indikator LCD dan Lampu LED
 
@@ -18,7 +18,7 @@ layar lcd dan lampu led lain akan mati sampai tombol off ditekan lagi
 lampu merah akan berkedip ketika menerima sinyal dari remote
 
 
-##CATATAN:
+## CATATAN:
 remote ir mungkin tidak akan bekerja pada tinkercad
 sampai catatan ini dibuat(5/1/23) remote ir tidak bekerja
 dikarenakan ada bug dari tinkercad, sehingga remote selalu
@@ -26,10 +26,10 @@ mendeteksi "hold button" ketika menekan tombol apapun dan menghasilkan decode re
 sehingga mengakibatkan key value tombol yang sesungguhnya tidak terdecode dengan baik
 bug ini telah berlangsung kurang lebih selama seminggu dan murni dari tinkercad
 
-##CATATAN KASUS SERUPA:
+## CATATAN KASUS SERUPA:
 https://www.reddit.com/r/tinkercad/comments/12x9u4c/ir_remote_bug_for_tinkercad_circuit/
 
 DI MASA DEPAN MUNGKIN BUG INI SUDAH DI FIX OLEH TINKERCAD DAN REMOTE IR DAPAT BERFUNGSI DENGAN NORMAL
 
-##Tinkercad Link
+## Tinkercad Link
 https://www.tinkercad.com/things/aclrgC0mQS8?sharecode=mG2KPRkXRoBDOM1TmLEbKamu8xFlivFZ0X_Y-p5RiMs
