@@ -28,5 +28,5 @@ https://www.reddit.com/r/tinkercad/comments/12x9u4c/ir_remote_bug_for_tinkercad_
 
 DI MASA DEPAN MUNGKIN BUG INI SUDAH DI FIX OLEH TINKERCAD DAN REMOTE IR DAPAT BERFUNGSI DENGAN NORMAL
 
-inkercad Link
+Tinkercad Link
 https://www.tinkercad.com/things/aclrgC0mQS8?sharecode=mG2KPRkXRoBDOM1TmLEbKamu8xFlivFZ0X_Y-p5RiMs
