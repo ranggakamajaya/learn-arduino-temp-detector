@@ -29,7 +29,7 @@ bug ini telah berlangsung kurang lebih selama seminggu dan murni dari tinkercad
 ## CATATAN KASUS SERUPA:
 https://www.reddit.com/r/tinkercad/comments/12x9u4c/ir_remote_bug_for_tinkercad_circuit/
 
-DI MASA DEPAN MUNGKIN BUG INI SUDAH DI FIX OLEH TINKERCAD DAN REMOTE IR DAPAT BERFUNGSI DENGAN NORMAL
+Di masa depan mungkin bug ini telah difix oleh Tinkercad dan remote IR dapat bekerja dengan normal
 
 ## Tinkercad Link
 https://www.tinkercad.com/things/aclrgC0mQS8?sharecode=mG2KPRkXRoBDOM1TmLEbKamu8xFlivFZ0X_Y-p5RiMs
